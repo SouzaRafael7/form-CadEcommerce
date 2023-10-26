@@ -4,7 +4,7 @@ No trabalho proposto sobre o formulário de ecommerce, foi utilizados 3 sites, s
 
 ### Amazon
 
-Na Amazon o formulário e contrato tem muitos 
+A Amazon é uma empresa multinacional americana, criada em 5 de julho de 1994
 
 ### Shopee
 
