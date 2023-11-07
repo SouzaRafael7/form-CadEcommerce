@@ -16,20 +16,31 @@ Ao entrar no site você irá se deparar com tela do formulário com os seguintes
 * Dados pessoais
 
 Nome Completo;
+
 CPF;
+
 Data Nascimento;
+
 Email;
+
 Confirme seu email;
+
 Senha;
+
 Confirme sua senha;
+
 Telefone;
 
 
-
-
-
-
 * Dados de endereço
+Endereço
+Bairro
+Num. da Residência
+Complemento 
+CEP
+Cidade 
+Estado
+
 ## Tecnologias Utilizadas
 * 
 * 
