@@ -15,31 +15,38 @@ Ao entrar no site você irá se deparar com tela do formulário com os seguintes
 
 * Dados pessoais
 
-Nome Completo;
+Nome Completo - Campo onde colacar seu nome;
 
-CPF;
+CPF - Colocar seu CPF;
 
-Data Nascimento;
+Data Nascimento - Coloque sua data de nascimento;
 
-Email;
+Email - Colocar seu email pessoal ou de trabalho e não colocar email que não usa com certa constância;
 
-Confirme seu email;
+Confirme seu email - confirmar seu email;
 
-Senha;
+Senha - Coloque sua senha que você criou no proprio site;
 
-Confirme sua senha;
+Confirme sua senha - confirme a senha digitada;
 
-Telefone;
+Telefone - colocar o telefone ou celular pessoal;
 
 
 * Dados de endereço
-Endereço
-Bairro
-Num. da Residência
-Complemento 
-CEP
-Cidade 
-Estado
+
+Endereço - Colocar o endereço onde você reside atualmente ou onde você quer que o pedido chegue;
+
+Bairro - Colocar o bairro de onde você reside;
+
+Num. da Residência - Colocar o número de identificação de sua casa ou condominio;
+
+Complemento - Colocar descrição e mais detalhes (se precisar) sobre seu local de entrega;
+
+CEP - Colocar o CEP de moradia;
+
+Cidade - Colocar a cidade cujo você reside;
+
+Estado - colocar o estado onde você reside;
 
 ## Tecnologias Utilizadas
 * 
