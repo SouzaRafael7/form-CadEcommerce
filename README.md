@@ -13,6 +13,8 @@ Após isso foi proposto em sala um trabalho para fazer um formulário com as car
 ## Site
 Ao entrar no site você irá se deparar com tela do formulário com os seguintes campos:
 
+![Site](vdi/YUT.gif)
+
 * Dados pessoais
 
 Nome Completo - Campo onde colacar seu nome;
@@ -32,7 +34,7 @@ Confirme sua senha - confirme a senha digitada;
 Telefone - colocar o telefone ou celular pessoal;
 
 
-* Dados de endereço
+* DADOS DE ENDEREÇO
 
 Endereço - Colocar o endereço onde você reside atualmente ou onde você quer que o pedido chegue;
 
@@ -47,6 +49,10 @@ CEP - Colocar o CEP de moradia;
 Cidade - Colocar a cidade cujo você reside;
 
 Estado - colocar o estado onde você reside;
+
+
+
+## 
 
 ## Tecnologias Utilizadas
 * 
