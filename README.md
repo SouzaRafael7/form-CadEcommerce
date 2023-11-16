@@ -2,8 +2,8 @@
 
 * [Descrição](#descrição)
 * [Site](#site)
-  [Finalizando](#finalizando)
-  [Sites](#sites)
+* [Finalizando](#finalizando)
+* [Sites](#sites)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autores](#autores)
  
