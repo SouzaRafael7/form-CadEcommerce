@@ -2,6 +2,7 @@
 
 * [Descrição](#descrição)
 * [Site](#site)
+  [Finalizando](#finalizando)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autores](#autores)
  
@@ -11,6 +12,7 @@ No trabalho proposto sobre o formulário de ecommerce, foi utilizados 3 sites, s
 Após isso foi proposto em sala um trabalho para fazer um formulário com as caracteristicas que foram pega dos 3 sites para produzir um formulário de cadastro.
 
 ## Site
+O site de cadastro e bem simples e interativo, não dificultando a vida de pessoas que não tem certo conhecimento as tecnologias que não sabem mexer em computadores e celulares.
 Ao entrar no site você irá se deparar com tela do formulário com os seguintes campos:
 
 ![Site](vdi/YUT.gif)
@@ -50,14 +52,21 @@ Cidade - Colocar a cidade cujo você reside;
 
 Estado - colocar o estado onde você reside;
 
+## Finalizando
 
-
-## 
+Os sites pegos ajudaram e muito na construção do site e na busca de irformações sobre oque se pede em lojas de comércio online. Assim sendo, consegui entender cada tópico e cada dado pedido.
 
 ## Tecnologias Utilizadas
-* 
-* 
-* 
+* ``HTML 5``
+* ``GITHUB``
+* ``BOOTSTRAP 5``
+* ``VS CODE``
+* ``TEAMS``
+
+## Sites
+* ``AMAZON`` - Uma empresa americana entre as maiores do mundo.
+* ``MERCADO LIVRE`` - Uma empresa Argentina mas com seus clientes no Brasil.
+* ``SHOPEE`` - Uma empresa Chinesa que atua no Brasil.
 
 ## Autores
 * ``Aluno 1ºC:``Rafael Souza Mastellini
