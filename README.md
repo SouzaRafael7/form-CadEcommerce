@@ -65,9 +65,9 @@ Os sites pegos ajudaram e muito na construção do site e na busca de irformaç�
 * ``TEAMS``
 
 ## Sites
-* ``AMAZON`` - Uma empresa americana entre as maiores do mundo.
-* ``MERCADO LIVRE`` - Uma empresa Argentina mas com seus clientes no Brasil.
-* ``SHOPEE`` - Uma empresa Chinesa que atua no Brasil.
+* ``AMAZON`` - Uma empresa americana entre as maiores do mundo e atua no Brasil.
+* ``MERCADO LIVRE`` - Uma empresa Argentina mas com sua maior parte de clientes no Brasil.
+* ``SHOPEE`` - Uma empresa Chinesa que atua no Brasil e no mundo.
 
 ## Autores
 * ``Aluno 1ºC:``Rafael Souza Mastellini
